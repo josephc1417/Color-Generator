@@ -1,6 +1,6 @@
 
-export const  = () => {
+export const Form = () => {
   return (
-    <div></div>
+    <div>Form</div>
   )
 }
